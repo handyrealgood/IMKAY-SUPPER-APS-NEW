@@ -1,0 +1,11 @@
+{
+  "name": "Imah Kayu Jatinangor",
+  "description": "Sistem Operasional Restoran Imah Kayu Jatinangor - POS Kasir, Absensi Selfie GPS, Inventaris & Manajemen Shift.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
